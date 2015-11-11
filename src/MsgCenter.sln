@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgCenterTest", "MsgCenterTest\MsgCenterTest.vcxproj", "{7E2769AF-1414-44D5-8F31-2FBD9B23D11D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgCenter", "MsgCenter\MsgCenter.vcxproj", "{7F05F8CE-FC78-422E-AE1F-BBFDDB84D7D3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgClient", "MsgClient\MsgClient.vcxproj", "{D105F973-467F-4BAB-A74A-20EA0FABD5A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgClientTest", "MsgClientTest\MsgClientTest.vcxproj", "{ACD13FB5-5039-47AA-B0CB-B50AFD7D2CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2769AF-1414-44D5-8F31-2FBD9B23D11D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E2769AF-1414-44D5-8F31-2FBD9B23D11D}.Debug|Win32.Build.0 = Debug|Win32
+		{7E2769AF-1414-44D5-8F31-2FBD9B23D11D}.Release|Win32.ActiveCfg = Release|Win32
+		{7E2769AF-1414-44D5-8F31-2FBD9B23D11D}.Release|Win32.Build.0 = Release|Win32
+		{7F05F8CE-FC78-422E-AE1F-BBFDDB84D7D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F05F8CE-FC78-422E-AE1F-BBFDDB84D7D3}.Debug|Win32.Build.0 = Debug|Win32
+		{7F05F8CE-FC78-422E-AE1F-BBFDDB84D7D3}.Release|Win32.ActiveCfg = Release|Win32
+		{7F05F8CE-FC78-422E-AE1F-BBFDDB84D7D3}.Release|Win32.Build.0 = Release|Win32
+		{D105F973-467F-4BAB-A74A-20EA0FABD5A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D105F973-467F-4BAB-A74A-20EA0FABD5A1}.Debug|Win32.Build.0 = Debug|Win32
+		{D105F973-467F-4BAB-A74A-20EA0FABD5A1}.Release|Win32.ActiveCfg = Release|Win32
+		{D105F973-467F-4BAB-A74A-20EA0FABD5A1}.Release|Win32.Build.0 = Release|Win32
+		{ACD13FB5-5039-47AA-B0CB-B50AFD7D2CF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ACD13FB5-5039-47AA-B0CB-B50AFD7D2CF2}.Debug|Win32.Build.0 = Debug|Win32
+		{ACD13FB5-5039-47AA-B0CB-B50AFD7D2CF2}.Release|Win32.ActiveCfg = Release|Win32
+		{ACD13FB5-5039-47AA-B0CB-B50AFD7D2CF2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
